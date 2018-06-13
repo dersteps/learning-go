@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Die Klinge des Schicksals",
+        "author": "Markus Heitz"
+    },
+    {
+        "id": 2,
+        "title": "Es",
+        "author": "Steven King"
+    },
+    {
+        "id": 3,
+        "title": "Der Hobbit",
+        "author": "J. R. R. Tolkien"
+    },
+    {
+        "id": 4,
+        "title": "Flowers for Algernon",
+        "author": "Daniel Keyes"
+    },
+    {
+        "id": 5,
+        "title": "Amok",
+        "author": "Richard Bachmann"
+    }
+]
